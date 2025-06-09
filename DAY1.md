@@ -34,6 +34,7 @@ public:
         return result;
     }
 };
+---
 
 ## Code Snippet: Spiral Matrix
 
@@ -80,7 +81,7 @@ public:
         return result;
     }
 };
-
+---
 
 ## Code Snippet: Move Zeros
 
